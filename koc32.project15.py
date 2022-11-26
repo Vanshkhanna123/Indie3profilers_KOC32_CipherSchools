@@ -1,9 +1,8 @@
-
 print("\nWelcome :)\n")
-print("_______________________________")
+print("___________")
 x=int(input("\n>>>Enter the positive integer lower limit⏬: "))
 y=int(input(">>>Enter the positive integer upper limit⏫: "))
-print("_______________________________\n")
+print("___________\n")
 s=0
 g=0
 if x>y:
@@ -34,12 +33,3 @@ else:
  print(f"\nThere are total of {g} prime numbers and \n{s} composite numbers in the given range.")
  print("")
  print("Thank You!!")
-0 comments on commit 1518ddc
-Please sign in to comment.
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
